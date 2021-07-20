@@ -1,8 +1,16 @@
 body {
   background-color: lightblue;
-  margin: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+  margin-left: 2rem;
   padding: 2rem;
 }
 section {
   padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+#backNext {
+  margin-top: 4rem;
 }
